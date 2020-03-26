@@ -1,0 +1,159 @@
+/* * {
+  outline: 5px dotted green;
+} */
+
+header {
+    height: 50px;
+    background: red;
+    max-width: 1310px;
+}
+
+.small-logo {
+    height: 20px;
+}
+
+a, i {
+    color: white;
+    position: relative;
+    font: bold 14px/14px "Roboto Condensed",sans-serif;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+
+li{
+    color: black;
+    position: relative;
+    font: bold 14px/14px "Roboto Condensed",sans-serif;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.subscribe-btn {
+    color: #f72210;
+    background: white;
+    padding: 5px;
+}
+
+.header-navbar {
+    padding: 0 calc((100% - 912px) / 24);
+}
+
+@media screen and (min-width: 400px) {
+
+    .weather {
+        display: inline-block!important;
+        color: white;
+    }
+    #moon {
+        display: inline-block !important;
+
+    }
+}
+
+@media screen and (min-width: 481px) {
+
+    .signin, .subscribe-btn {
+        font-size: 18px;
+        
+    }
+
+    .fa-chevron-right {
+        display: inline-block!important;
+        color: #f72210;
+    }
+
+}
+
+@media screen and (min-width: 641px) {
+    #location {
+        display: inline-block !important;
+
+    }
+}
+
+@media screen and (min-width: 992px) {
+    header {
+        height: 95px;
+    }
+
+    .small-logo {
+        height: 60px;
+    }
+}
+
+
+
+
+/* 
+.header-topbar {
+    height: 50px;
+    background:#f72210;
+    font-size: 18px;
+}
+
+.small-logo {
+    height: 20px;
+}
+
+a, i {
+    color: white;
+    position: relative;
+    font: bold 14px/14px "Roboto Condensed",sans-serif;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.subscribe-btn {
+    color: #f72210;
+}
+
+.weather {
+    color: white;
+}
+
+.article_category {
+    bottom: 0;
+    left: 0;
+    padding: 8px 15px 9px;
+    background-color: rgba(255, 255, 255, 0.9)
+}
+
+@media screen and (min-width: 400px) {
+
+    .weather {
+        display: inline-block!important;
+    }
+    #moon {
+        display: inline-block !important;
+
+    }
+}
+
+@media screen and (min-width: 481px) {
+
+    .signin, .subscribe-btn {
+        font-size: 18px;
+        
+    }
+
+    .fa-chevron-right {
+        display: inline-block!important;
+        color: #f72210;
+    }
+
+}
+
+@media screen and (min-width: 641px) {
+    #location {
+        display: inline-block !important;
+
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .header-topbar {
+        height: 95px;
+        padding: 20px!important;
+    }
+} */
