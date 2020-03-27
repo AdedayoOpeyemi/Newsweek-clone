@@ -20,6 +20,12 @@ a, i {
     display: inline-block;
 }
 
+.fa-bars {
+    font-size:24px;
+    color: #fb9a94;
+    padding-left: 20px!important;
+}
+
 
 li{
     color: black;
