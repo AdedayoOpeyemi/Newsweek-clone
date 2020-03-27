@@ -2,6 +2,9 @@
   outline: 5px dotted green;
 } */
 
+body {
+    background-color: #f4f5f6;
+}
 header {
     height: 50px;
     background: red;
@@ -44,6 +47,8 @@ li{
 .header-navbar {
     padding-right: 160px;
     border-bottom: solid 1px lightgrey;
+    max-width: 1310px;
+    background: white;
 }
 
 .header-navbar li a {
@@ -53,6 +58,10 @@ li{
 
 .header-navbar li:nth-child(1) > a {
     border: none;
+}
+
+main {
+    max-width: 1310px!important;
 }
 
 
