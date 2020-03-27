@@ -36,8 +36,19 @@ li{
 }
 
 .header-navbar {
-    padding: 0 calc((100% - 912px) / 24);
+    padding-right: 160px;
+    border-bottom: solid 1px lightgrey;
 }
+
+.header-navbar li a {
+    padding: 10px calc((100% - 912px) / 24);
+    border-left: solid 1px lightgrey;
+}
+
+.header-navbar li:nth-child(1) > a {
+    border: none;
+}
+
 
 @media screen and (min-width: 400px) {
 
