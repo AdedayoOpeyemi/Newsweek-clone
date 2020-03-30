@@ -182,6 +182,20 @@ a.opinion-links:hover {
     margin-right: 10px;
 }
 
+.mag_span {
+    background:  #f72210;
+    color: white;
+    padding: 5px 10px 5px 10px;
+}
+
+.mag_a {
+    color: #f72210;
+}
+
+.magazine_col article div img {
+    min-height:22vh;
+}
+
 
 @media screen and (min-width: 400px) {
 
