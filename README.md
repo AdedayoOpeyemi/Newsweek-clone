@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/AdedayoOpeyemi/Newsweek-clone/feature-branch/index.html)
 
 
 ## Getting Started
