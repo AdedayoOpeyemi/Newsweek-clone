@@ -8,7 +8,7 @@
 
 ![screenshot](assets/images/newsweek-desktop.png)
 
-Additional description about the project and its features.
+
 
 ## Built With
 
@@ -22,23 +22,16 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Get a local copy of this project.**
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### run the following command 
 
-### Setup
+git clone git@github.com:AdedayoOpeyemi/Newsweek-clone.git
 
-### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
