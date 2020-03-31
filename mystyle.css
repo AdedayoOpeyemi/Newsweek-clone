@@ -176,6 +176,10 @@ a.opinion-links:hover {
     padding: 20px;
 }
 
+.more-story-article {
+    border-top: solid 1px lightgrey;
+}
+
 .more-story-article img, .latest-news article img {
     float: left;
     width: 95px;
@@ -300,6 +304,30 @@ footer {
     text-align: center;
     background: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png) 0 0/contain no-repeat;
     color: #e9212e!important;
+}
+
+.sub-sized-holder {
+    padding-bottom: 13px;
+    padding-right: 90px;
+}
+
+.sub-sized {
+    width: 170px;
+}
+
+.new-sub-size {
+    top: 13px;
+    left: 80px;
+}
+
+.newsletter-bottom > article, .subscribe-bottom > article {
+    background: #f4f5f6;
+}
+
+.letter {
+    background: url(https://d.newsweek.com/en/full/1541302/starting5-homepage.png) center center / cover no-repeat;
+    height: 160px;
+    width: 100%;
 }
 
 
