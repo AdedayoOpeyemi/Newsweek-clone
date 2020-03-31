@@ -1,16 +1,19 @@
-# Project Name
+# Newsweek Clone built using Bootstrap
 
-> One paragraph statement about the project.
+> This project requests students to build a replica of the news site Newsweek.com using the Bootstrap framework.
 
-![screenshot](./app_screenshot.png)
+![screenshot](assets/images/newsweek-mobile.png)
+
+![screenshot](assets/images/newsweek-tablet.png)
+
+![screenshot](assets/images/newsweek-desktop.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML CSS,
+- Bootstrap,
 
 ## Live Demo
 
@@ -43,15 +46,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@Adedayoopeyemi](https://github.com/Adedayoopeyemi)
+- Twitter: [@Oyelesiopy](https://twitter.com/oyelesiopy)
+- Linkedin: [linkedin](https://linkedin.com/opeyemioyelesi)
 
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 

@@ -17,10 +17,10 @@ header {
 }
 
 a {
+  font: bold 14px/14px "Roboto Condensed", sans-serif;
   text-decoration: none;
   color: black;
   line-height: 10px;
-  font: bold 14px/14px "Roboto Condensed", sans-serif;
   font-size: inherit;
 }
 
@@ -64,11 +64,27 @@ li {
   right: 100px;
 }
 
+input {
+  border: none;
+}
+
 .fa-search {
   top: 20px;
   right: 80px;
   font-size: 15px;
   color: grey;
+}
+
+.extra-drop {
+  position: absolute;
+  top: 0;
+  right: 0;
+  content: "";
+  display: block;
+  width: 78px;
+  background-color: #f72210;
+  border-left: 12px solid white;
+  border-top: 13px solid #f72210;
 }
 
 .opinion-details a {
