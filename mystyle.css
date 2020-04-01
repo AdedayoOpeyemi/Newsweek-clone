@@ -487,6 +487,8 @@ footer {
 
   .letter {
     min-height: 240px;
+    max-width: 260px;
+    margin-right: 2.5rem;
   }
 }
 
