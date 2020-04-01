@@ -1,41 +1,37 @@
-# Project Name
+# Newsweek Clone built using Bootstrap
 
-> One paragraph statement about the project.
+> This project requests students to build a replica of the news site Newsweek.com using the Bootstrap framework.
 
-![screenshot](./app_screenshot.png)
+![screenshot](assets/images/newsweek-mobile.png)
 
-Additional description about the project and its features.
+![screenshot](assets/images/newsweek-tablet.png)
+
+![screenshot](assets/images/newsweek-desktop.png)
+
+
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML CSS,
+- Bootstrap,
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/AdedayoOpeyemi/Newsweek-clone/feature-branch/index.html)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Get a local copy of this project.**
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### run the following command 
 
-### Setup
+git clone git@github.com:AdedayoOpeyemi/Newsweek-clone.git
 
-### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
@@ -43,15 +39,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@Adedayoopeyemi](https://github.com/Adedayoopeyemi)
+- Twitter: [@Oyelesiopy](https://twitter.com/oyelesiopy)
+- Linkedin: [linkedin](https://linkedin.com/opeyemioyelesi)
 
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
