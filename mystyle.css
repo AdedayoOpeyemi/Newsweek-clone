@@ -200,16 +200,8 @@ a.opinion-links:hover {
   border-top: solid 1px lightgrey;
 }
 
-.more-story-article img,
-.latest-news article img {
-  float: left;
-  width: 95px;
-  height: 95px;
-  margin-right: 15px;
-}
-
 .more-stories {
-    top: 1rem;
+  top: 1rem;
 }
 
 .more-stories h4 {
@@ -230,7 +222,88 @@ a.opinion-links:hover {
   padding-right: 6px;
 }
 
-.
+.latest-image1 {
+  background: url("https://d.newsweek.com/en/full/1577266/congress-leaves-town-after-passing-coronavirus-bill.jpg");
+  background-size: cover;
+}
+
+.latest-image2 {
+  background: url("https://d.newsweek.com/en/full/1560486/powerball-mega-millions-tickets.jpg");
+  background-size: cover;
+}
+
+.latest-image3 {
+  background: url("https://d.newsweek.com/en/full/1577227/south-sudan-zero-coronavirus-covid-19-cases.jpg");
+  background-size: cover;
+}
+
+.latest-image4 {
+  background: url("https://d.newsweek.com/en/full/1577219/heidi-tim.jpg");
+  background-size: cover;
+}
+
+.latest-image5 {
+  background: url("https://d.newsweek.com/en/full/1577004/wedding.jpg");
+  background-size: cover;
+}
+
+.latest-news-images,
+.more-story-images {
+  float: left;
+  margin-right: 1rem;
+  width: 95px;
+  height: 95px;
+}
+
+.more-story1 {
+  background: url("https://d.newsweek.com/en/full/1576554/face-mask.webp");
+  background-size: cover;
+}
+
+.more-story2 {
+  background: url("https://d.newsweek.com/en/full/1577128/ex-homeland-secretary-janet-napolitano.webp");
+  background-size: cover;
+}
+
+.more-story3 {
+  background: url("https://d.newsweek.com/en/full/1577175/coronavirus-us.jpg?");
+  background-size: cover;
+}
+
+.more-story4 {
+  background: url("https://d.newsweek.com/en/full/1577256/coronavirus-florida.webp");
+  background-size: cover;
+}
+
+.more-story5 {
+  background: url("https://d.newsweek.com/en/full/1577069/sean-hannity-versus-us-president-donald-trump.jpg");
+  background-size: cover;
+}
+
+.more-story6 {
+  background: url("https://d.newsweek.com/en/full/1577123/coronavirus-covid19-testing-getty.jpg");
+  background-size: cover;
+}
+
+.more-story7 {
+  background: url("https://d.newsweek.com/en/full/1577033/phase-4-coronavirus-stimulus.webp");
+  background-size: cover;
+}
+
+.more-story8 {
+  background: url("https://d.newsweek.com/en/full/1577077/ralph-lauren.webp");
+  background-size: cover;
+}
+
+.more-story9 {
+  background: url("https://d.newsweek.com/en/full/1577086/ice-detention.webp");
+  background-size: cover;
+}
+
+.more-story10 {
+  background: url("https://d.newsweek.com/en/full/1577175/coronavirus-us.jpg?");
+  background-size: cover;
+}
 
 .newsletter {
   max-width: 300px;
@@ -413,7 +486,7 @@ footer {
   }
 
   .letter {
-      min-height: 240px;
+    min-height: 240px;
   }
 }
 
