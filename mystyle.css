@@ -347,6 +347,7 @@ footer {
 
 .footer-logo {
   height: 36px;
+  padding-right: 1rem;
 }
 
 .copyright {
@@ -428,10 +429,6 @@ footer {
   background: url(https://d.newsweek.com/en/full/1541302/starting5-homepage.png) center center / cover no-repeat;
   height: 160px;
   width: 100%;
-}
-
-.footer-logo {
-  padding-right: 1rem;
 }
 
 @media screen and (min-width: 400px) {
